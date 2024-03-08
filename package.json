@@ -1,0 +1,19 @@
+{
+  "name": "ccgen1",
+  "version": "1.0.0",
+  "description": "credit card generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wiradjuri/ccgen1.git"
+  },
+  "author": "brad murray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wiradjuri/ccgen1/issues"
+  },
+  "homepage": "https://github.com/Wiradjuri/ccgen1#readme"
+}
